@@ -1,0 +1,15 @@
+div.idk {
+    background-color: rgb(150, 150, 63);
+    padding: 20px;
+  }
+
+  @media screen and (max-width: 600px) {
+    div.idk {
+      display: none;
+    }
+  }
+
+  h1{
+    text-align: center;
+  }
+
